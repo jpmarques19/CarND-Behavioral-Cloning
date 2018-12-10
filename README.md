@@ -14,11 +14,11 @@ The goals  steps of this project are the following
 
 [//]: # (Image References)
 
-[image1]: ./nvidia.jpg "Model Visualization"
+[image1]: ./nvidia.JPG "Model Visualization"
 [image2]: ./center.jpg "Center Image"
 [image3]: ./left.jpg "Left Image"
 [image4]: ./right.jpg "Right Image"
-[image5]: ./training.jpg "Training results"
+[image5]: ./training.JPG "Training results"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](httpsreview.udacity.com#!rubrics432view) individually and describe how I addressed each point in my implementation.  
